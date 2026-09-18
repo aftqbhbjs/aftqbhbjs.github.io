@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aftqbhbjs.github.io/sitemap.xml
